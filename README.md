@@ -25,7 +25,8 @@ The dashboard analyzes over **7,000+ customer records** and presents findings th
 * 📑 Microsoft Excel
 * 📉 Data Visualization
 * 📋 Business Intelligence
-* 🔍 Exploratory Data Analysis (EDA)
+* 🎯 Customer Segmentation
+* 📊 KPI Monitoring & Reporting
 
 ---
 
@@ -65,15 +66,15 @@ Identifies the primary factors contributing to customer churn.
 
 ### 3️⃣ Customer Segmentation Analysis
 
-Segments customers based on spending patterns, tenure, and service usage.
+Segments customers based on tenure, spending behavior, and service usage patterns.
 
 **Key Features**
 
-* Customer Segmentation Scatter Plot
+* Churn Rate Across Customer Segments
 * Tenure Group Distribution
 * Charge Category Analysis
-* Revenue Contribution Analysis
-* Customer Cluster Insights
+* Revenue Contribution by Internet Service
+* Customer Segment Insights
 
 ---
 
@@ -145,7 +146,7 @@ Telecom-Customer-Churn-Analysis/
 * Analyzed **7,000+ telecom customer records**
 * Built a **multi-page interactive Power BI dashboard**
 * Created advanced visualizations using **Key Influencers** and **Decomposition Tree**
-* Performed customer segmentation and churn analysis
+* Performed customer segmentation, churn analysis, and revenue contribution analysis
 * Generated actionable business insights for customer retention
 
 ---
